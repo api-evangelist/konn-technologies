@@ -1,0 +1,53 @@
+# Konn Technologies
+
+> Amman, Jordan design and construction technology company (founded 2020) building an integrated design
+> language, industrialized construction methodology, and software platform for homeownership. Its consumer
+> brand Konn designs, prices, and builds single-family homes in Jordan with one team and a locked-in price.
+> Konn Technologies publishes no public developer API, developer portal, or machine-readable API artifacts.
+
+<!-- generated: 2026-07-19 | method: generated | source: apis.yml + https://konn.tech + https://konnhomes.com -->
+
+## About
+
+- [Konn Technologies](https://konn.tech): Corporate site - the design system, construction system, and platform.
+- [Konn (consumer brand)](https://konnhomes.com): Design, price, and build your home in Jordan.
+- [Why Konn](https://konnhomes.com/why-konn): Locked-in pricing, predictable timelines, one team end to end.
+- [Team](https://konn.tech/team): The people behind Konn Technologies.
+- [Contact](https://konnhomes.com/contact): Contact the company; corporate email info@konn.tech.
+
+## Products
+
+- [DesignFit](https://konnhomes.com/designfit): 300 JOD, 10-day land assessment - 2D layouts, site plan, budget and timeline.
+- [ArchDesign](https://konnhomes.com/archdesign): 4,000 JOD 3D design with a locked-in construction price, deducted from construction.
+- [Konnify](https://konnhomes.com/konnify): Adapts a design commissioned from an outside architect onto the Konn engineering system.
+- [Design Studio](https://design.konn.tech): Browse Konn home designs by floor type, starting size, and style, with floor plans and pricing.
+- [Design Match](https://match.konnhomes.com): Recommends a Konn home design from stated bedrooms, size, and spaces.
+- [Specifications](https://konnhomes.com/specifications): Reinforced concrete structure, 10+ cm wall insulation, sealed envelope; Origin and Prime finish tiers.
+
+## Work
+
+- [Our Work](https://konnhomes.com/our-work): Completed and designed homes across Amman and Jordan.
+- [The Ivory House](https://konnhomes.com/our-work/the-ivory-house): Abdoun, Amman - 775 sqm.
+- [The Hilltop Pavilion](https://konnhomes.com/our-work/the-hilltop-pavilion): Al Kashef, Amman - 355 sqm.
+- [The Mesa House](https://konnhomes.com/our-work/the-mesa-house): Na'our, Amman - 259 sqm.
+
+## Knowledge
+
+- [Blog](https://konnhomes.com/blog): Articles on land, homeownership, and the building process in Jordan.
+- [What Is a DesignFit](https://konnhomes.com/blog/what-is-designfit)
+- [What to Know Before Buying Land in Jordan](https://konnhomes.com/blog/buying-land-jordan)
+- [Building a Home While Living Abroad](https://konnhomes.com/blog/building-home-abroad)
+- [Cost to Build a Home in Jordan](https://konnhomes.com/blog/cost-build-home-jordan)
+- [FAQ](https://konnhomes.com/faq)
+
+## Policies
+
+- [Policies and Terms](https://konnhomes.com/policies)
+- [Privacy Policy](https://konnhomes.com/privacy)
+
+## Developers
+
+Konn Technologies does not publish a public API. As of 2026-07-19 there is no developer portal, API
+reference, OpenAPI or AsyncAPI description, SDK, CLI, MCP server, or /.well-known/ API metadata on
+konnhomes.com, konn.tech, design.konn.tech, or match.konnhomes.com. The GitHub organization
+https://github.com/konn-tech exists but publishes no public repositories.
